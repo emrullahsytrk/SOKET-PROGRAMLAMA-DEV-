@@ -1,0 +1,6 @@
+C:\Users\ECEM YAMAN\Desktop\SOKET PROGRAMLAMA ÖDEVİ\soketprogramming\bin\Debug\soketprogramming.exe.config
+C:\Users\ECEM YAMAN\Desktop\SOKET PROGRAMLAMA ÖDEVİ\soketprogramming\bin\Debug\soketprogramming.exe
+C:\Users\ECEM YAMAN\Desktop\SOKET PROGRAMLAMA ÖDEVİ\soketprogramming\bin\Debug\soketprogramming.pdb
+C:\Users\ECEM YAMAN\Desktop\SOKET PROGRAMLAMA ÖDEVİ\soketprogramming\obj\Debug\soketprogramming.csprojAssemblyReference.cache
+C:\Users\ECEM YAMAN\Desktop\SOKET PROGRAMLAMA ÖDEVİ\soketprogramming\obj\Debug\soketprogramming.exe
+C:\Users\ECEM YAMAN\Desktop\SOKET PROGRAMLAMA ÖDEVİ\soketprogramming\obj\Debug\soketprogramming.pdb
